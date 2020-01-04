@@ -1,7 +1,11 @@
 head {
   padding: 20 px;
 }
+body {
+  padding-left: 25px;
+  margin-top: 25px;
+}
 .page-email {
   width: 125px;
-  
+  position: center;
 }
