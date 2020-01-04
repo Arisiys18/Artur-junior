@@ -25,7 +25,7 @@ body {
 .page-header .container,
 .page-footer .container {
   max-width: 1408px;
-  text-align: right;
+  text-align: center;
 }
 
 .page-header a {
@@ -33,11 +33,11 @@ body {
   color: #288be6;
   text-decoration: none;
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
 }
 
 .header-email {
-  padding-left: 30px;
+  padding: 10px;
   background-image: url("img/icon-email-header.svg");
 }
 
