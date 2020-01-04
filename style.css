@@ -35,8 +35,7 @@ body {
 }
 
 .header-email {
-  padding: 10px;
-  background-image: url("img/icon-email-header.svg");
+  padding: 30px;
 }
 
 .header-phone {
