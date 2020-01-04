@@ -19,6 +19,7 @@ body {
 
 .page-header {
   margin: 0 0 160px;
+  padding-right: 25px;
 }
 
 .page-header .container,
