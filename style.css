@@ -15,6 +15,9 @@ body {
   max-width: 928px;
   margin: 0 auto;
 }
+.page-email {
+  width: 120px;
+}
 
 .page-header {
   margin: 0 0 160px;
